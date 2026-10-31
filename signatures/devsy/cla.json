@@ -39,6 +39,14 @@
       "created_at": "2026-10-11T13:41:37Z",
       "repoId": 1214061724,
       "pullRequestNo": 1462
+    },
+    {
+      "name": "wsmoak",
+      "id": 20140,
+      "comment_id": 6550683930,
+      "created_at": "2026-10-31T23:39:33Z",
+      "repoId": 1214061724,
+      "pullRequestNo": 1739
     }
   ]
 }
